@@ -19,7 +19,7 @@
 ##############################################################################
 
 {
-    'name': 'test15',
+    'name': 'solardqd',
     'version': '15.0.1.0.0',
     'category': 'Tools',
     'summary': "Test for v15 CE",
@@ -43,7 +43,7 @@
     'port': '8069',
 
     'git-repos': [
-        'git@github.com:jobiols/cl-test.git',
+        'https://github.com/sistemasdehudson/cl-solardqd.git',
 #        'git@github.com:jobiols/odoo-jeo-ce.git',
     ],
 
