@@ -78,6 +78,7 @@
         'https://github.com/ingadhoc/website -b 15.0',
         'https://github.com/OCA/project-reporting -b 15.0',
         'https://github.com/OCA/purchase-workflow -b 15.0',
+        'https://github.com/Yenthe666/auto_backup.git yenthe666/auto_backup -b 15.0',
     ],
 
     # list of images to use in the form 'name image-url'
